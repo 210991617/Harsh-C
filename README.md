@@ -1,4 +1,3 @@
-# Harsh-C
 First repository
 <html>
 <head> 
